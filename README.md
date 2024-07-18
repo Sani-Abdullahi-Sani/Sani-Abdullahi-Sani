@@ -21,7 +21,7 @@ We developed a SurveillanceBot using a TurtleBot to explore, map, and navigate w
 
 
 ## 🏆 Achievements
-- **Best Graduating Student of Computer Science 2019:** Selected to attend the event at LSE, London, UK from August 22-24, 2024.
+- **Best Graduating Student of Computer Science 2019:** 
 
 ## 📫 Contact
 - **Email:** saniabdullahirano@gmail.com
@@ -45,7 +45,7 @@ We developed a SurveillanceBot using a TurtleBot to explore, map, and navigate w
 - AI and Machine Learning
 - NLP in African Setting
 - Sustainable Income through Digital Skills
-- Tech Education
+- STEM Education
 
 ### 📚 My Interests
 - AI
