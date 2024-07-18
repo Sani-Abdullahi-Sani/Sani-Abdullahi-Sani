@@ -1,3 +1,6 @@
+![AIforGood](https://camo.githubusercontent.com/b5d749e64d72eab5b1662227997e4871a38202161f367fdb5e1ad2919f932f9d/68747470733a2f2f6e616e6f6e6574732e636f6d2f626c6f672f636f6e74656e742f696d616765732f323031392f31322f426c6f672d4d6f64656c322e676966)
+
+
 # Hi, I'm Sani Abdullahi Sani 👋
 
 I aspire to integrate insights from human perception and cognition into AI design, I aim to contribute to cutting-edge research in cognitive science through the development of innovative technologies that enhance learning, memory, and decision-making. By incorporating cognitive models, I strive to predict behavior and optimize human interaction with technology. Additionally, I am deeply interested in Natural Language Processing (NLP), particularly in working with low-resource African languages. My goal is to curate data and create meaningful models that address unique African challenges. I am also fascinated by reinforcement learning techniques and applications, which I believe hold great potential in creating adaptive and intelligent systems.
