@@ -9,14 +9,14 @@ I aspire to integrate insights from human perception and cognition into AI desig
 - **Other:** Data Analysis, Artificial Intelligence, Machine Learning, Natural Language Processing, Reinforcement Learning, Computer Vision, Robotics
 
 ## 🔥 Projects
-### [Reconnaisance Blind Chess]([Reconnaissance Blind Chess (RBC)](https://github.com/Sani-Abdullahi-Sani/Artificial-Intelligence-Projects/tree/84741cbd0b5a9d6f07778ac8dfab24dfada85c98/Reconnaissance%20Blind%20Chess%20(RBC))
+### [Reconnaisance Blind Chess](https://github.com/Sani-Abdullahi-Sani/Artificial-Intelligence-Projects/tree/84741cbd0b5a9d6f07778ac8dfab24dfada85c98/Reconnaissance%20Blind%20Chess%20(RBC)
 We Implemented a baseline agent with random sensing and made to play a round-robin tournament with Random Bot and the Trout Bot. The
 RandomSensing agent used is an advanced iteration, whereby only the minimum amount of potential states are stored. We later improved the Agent by improving sensing, better move generation and better openings.
 
-### [Brain Tumor Project](https://github.com/yourusername/ai-research)
+### [Brain Tumor Project](https://github.com/Sani-Abdullahi-Sani/Machine-Learning-Projects/tree/35923955a31a15d78879c597e73e1c308a22775d/Brain%20Tumor%20Project)
 We applied deep learning techniques to the detection and classification of brain tumors using Magnetic Resonance Imaging (MRI) scans.
 
-### [SurveillanceBot using a TurtleBot](https://github.com/yourusername/nlp-insights)
+### [SurveillanceBot using a TurtleBot](https://github.com/Sani-Abdullahi-Sani/Robotics-Projects/tree/955a40e84b72ca8274a075f577c89109c0dce475/SurveillanceBot%20using%20TurtleBot)
 We developed a SurveillanceBot using a TurtleBot to explore, map, and navigate within a given environment. The primary tasks included mapping the environment, navigating to specified coordinates, and detecting a green utility cart.
 
 
