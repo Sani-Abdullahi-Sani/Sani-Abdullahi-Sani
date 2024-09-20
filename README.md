@@ -9,7 +9,7 @@ I aspire to integrate insights from human perception and cognition into AI desig
 - **Other:** Data Analysis, Artificial Intelligence, Machine Learning, Natural Language Processing, Reinforcement Learning, Computer Vision, Robotics
 
 ## 🔥 Projects
-### [Reconnaisance Blind Chess](https://github.com/yourusername/datavendor-app)
+### [Reconnaisance Blind Chess]([Reconnaissance Blind Chess (RBC)](https://github.com/Sani-Abdullahi-Sani/Artificial-Intelligence-Projects/tree/84741cbd0b5a9d6f07778ac8dfab24dfada85c98/Reconnaissance%20Blind%20Chess%20(RBC))
 We Implemented a baseline agent with random sensing and made to play a round-robin tournament with Random Bot and the Trout Bot. The
 RandomSensing agent used is an advanced iteration, whereby only the minimum amount of potential states are stored. We later improved the Agent by improving sensing, better move generation and better openings.
 
