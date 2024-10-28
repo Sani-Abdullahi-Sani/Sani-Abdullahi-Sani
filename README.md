@@ -24,7 +24,9 @@ We fine-tuned the AfriBERTa model, a pre-trained large language model, to perfor
 
 
 ## 🏆 Achievements
-- **Best Graduating Student of Computer Science 2019:** 
+- **Best Graduating Student of Computer Science 2019:**
+- **Google Deepmind Scholar 2024:**
+- **Post Graduate Merit Award at the University of the Witwatersrand Johannesburg 2024: (Declined)**
 
 ## 📫 Contact
 - **Email:** saniabdullahirano@gmail.com
