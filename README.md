@@ -19,6 +19,9 @@ We applied deep learning techniques to the detection and classification of brain
 ### [SurveillanceBot using a TurtleBot](https://github.com/Sani-Abdullahi-Sani/Robotics-Projects/tree/955a40e84b72ca8274a075f577c89109c0dce475/SurveillanceBot%20using%20TurtleBot)
 We developed a SurveillanceBot using a TurtleBot to explore, map, and navigate within a given environment. The primary tasks included mapping the environment, navigating to specified coordinates, and detecting a green utility cart.
 
+### [Sentiment Analysis for Hausa Language using Pretrained LLM](https://github.com/Sani-Abdullahi-Sani/Natural-Language-Processing/tree/main/Sentiment%20Analysis%20in%20African%20Languages%20Project)
+We fine-tuned the AfriBERTa model, a pre-trained large language model, to perform sentiment analysis on Hausa text. In addition to leveraging the NaijaSenti dataset, we curated an extensive corpus of Hausa data for Language-Adaptive Fine-Tuning (LAFT) to enhance the model’s understanding of the language. This project explores the challenges of low-resource languages and highlights the importance of diverse data representation in NLP tasks.
+
 
 ## 🏆 Achievements
 - **Best Graduating Student of Computer Science 2019:** 
