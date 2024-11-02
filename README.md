@@ -53,7 +53,7 @@ We fine-tuned the AfriBERTa model, a pre-trained large language model, to perfor
 - STEM Education
 
 ### 📚 My Interests
-- AI
+- AI & ML
 - Reinforcement Learning
 - NLP | Explainable AI
 - Human Computer Interaction
