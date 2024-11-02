@@ -1,6 +1,6 @@
 # Hi, I'm Sani Abdullahi Sani 👋
 
-I aspire to integrate insights from human perception and cognition into AI design, I aim to contribute to cutting-edge research in cognitive science through the development of innovative technologies that enhance learning, memory, and decision-making. I strive to predict behavior and optimize human interaction with technology by incorporating cognitive models. Additionally, I am deeply interested in Natural Language Processing (NLP), particularly in working with low-resource African languages. My goal is to curate data and create meaningful models that address unique African challenges. I am also fascinated by reinforcement learning techniques and applications, which I believe hold great potential in creating adaptive and intelligent systems.
+I aspire to integrate insights from human perception and cognition into AI design, I aim to contribute to cutting-edge research in cognitive science through the development of innovative technologies that enhance learning, memory, and decision-making. Additionally, I am interested in Natural Language Processing (NLP), especially in working with low-resource African languages. My goal is to curate data and create meaningful models that address unique African challenges. I am also fascinated by General AI and Machine Learning Applications, Reinforcement learning techniques and applications, which I believe hold great potential in creating adaptive and intelligent systems.
 
 ## 🛠️ Skills
 - **Languages:** Python, C++
@@ -40,7 +40,6 @@ We developed a SurveillanceBot using a TurtleBot to explore, map, and navigate w
 ## 📫 Contact
 - **Email:** saniabdullahirano@gmail.com
 
-
 ---
 
 ### 🌱 I’m currently learning
@@ -51,18 +50,19 @@ We developed a SurveillanceBot using a TurtleBot to explore, map, and navigate w
 - Reinforcement Learning
 
 ### 👯 I’m looking to collaborate on
-- NLP Projects for Low Resource Languages
-- Reinforcement Learning Research
+- AI and ML Projects
+- NLP Projects in Generative Models and Low Resource Languages
+- Reinforcement Learning 
 - Cognitive Inspired AI
 
 ### 💬 Ask me about
-- AI and Machine Learning
-- NLP in African Setting
+- AI and Machine Learning, and Data Science
+- NLP
 - Sustainable Income through Digital Skills
 - STEM Education
 
 ### 📚 My Interests
-- AI & ML
+- AI, ML and Data Science 
 - Reinforcement Learning
 - NLP | Explainable AI
 - Human Computer Interaction
