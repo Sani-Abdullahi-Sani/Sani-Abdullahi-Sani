@@ -9,18 +9,27 @@ I aspire to integrate insights from human perception and cognition into AI desig
 - **Other:** Data Analysis, Artificial Intelligence, Machine Learning, Natural Language Processing, Reinforcement Learning, Computer Vision, Robotics
 
 ## 🔥 Projects
+
+### [Enhancing IoT Security with Explainable AI-Powered Intrusion Detection Systems](https://github.com/Sani-Abdullahi-Sani/Capstone-Project-2024)
+This project focuses on enhancing IoT security by developing an Intrusion Detection System (IDS) powered by Explainable AI. Using a mix of interpretable (white-box) and complex (black-box) models, it aims to provide both high accuracy and transparency in detecting potential threats in IoT environments.
+
+### [Sentiment Analysis for Hausa Language using Pretrained LLM](https://github.com/Sani-Abdullahi-Sani/Natural-Language-Processing/tree/main/Sentiment%20Analysis%20for%20Low%20Resource%20African%20Languages)
+We fine-tuned the AfriBERTa model, a pre-trained large language model, to perform sentiment analysis on Hausa text. In addition to leveraging the NaijaSenti dataset, we curated an extensive corpus of Hausa data for Language-Adaptive Fine-Tuning (LAFT) to enhance the model’s understanding of the language. This project explores the challenges of low-resource languages and highlights the importance of diverse data representation in NLP tasks.
+
+### [Reinforcement Learning for Power Grid Management](https://github.com/Sani-Abdullahi-Sani/Reinforcement-Learning/tree/main/Reinforcement%20Learning%20for%20Power%20Grid%20Management)
+This project trains reinforcement learning agents to manage power grids using the Grid2Op environment.
+
+### [Tino's PuzzleSolver: A Visual Journey](https://github.com/Sani-Abdullahi-Sani/Computer-Vision)
+In this project, we solve Tino's Puzzle by leveraging handcrafted features and advanced computer vision techniques, including affine transformations, per-pixel feature extraction, and deep learning segmentation, to analyze contours, shapes, and texture models.
+
 ### [Reconnaisance Blind Chess](https://github.com/Sani-Abdullahi-Sani/Artificial-Intelligence-Projects/tree/main/Reconnaissance%20Blind%20Chess%20(RBC))
-We Implemented a baseline agent with random sensing and made to play a round-robin tournament with Random Bot and the Trout Bot. The
-RandomSensing agent used is an advanced iteration, whereby only the minimum amount of potential states are stored. We later improved the Agent by improving sensing, better move generation and better openings.
+We Implemented a baseline agent with random sensing and made to play a round-robin tournament with Random Bot and the Trout Bot. The RandomSensing agent used is an advanced iteration, whereby only the minimum amount of potential states are stored. We later improved the Agent by improving sensing, better move generation and better openings.
 
 ### [Brain Tumor Project](https://github.com/Sani-Abdullahi-Sani/Machine-Learning-Projects/tree/35923955a31a15d78879c597e73e1c308a22775d/Brain%20Tumor%20Project)
 We applied deep learning techniques to the detection and classification of brain tumors using Magnetic Resonance Imaging (MRI) scans.
 
 ### [SurveillanceBot using a TurtleBot](https://github.com/Sani-Abdullahi-Sani/Robotics-Projects/tree/955a40e84b72ca8274a075f577c89109c0dce475/SurveillanceBot%20using%20TurtleBot)
 We developed a SurveillanceBot using a TurtleBot to explore, map, and navigate within a given environment. The primary tasks included mapping the environment, navigating to specified coordinates, and detecting a green utility cart.
-
-### [Sentiment Analysis for Hausa Language using Pretrained LLM](https://github.com/Sani-Abdullahi-Sani/Natural-Language-Processing/tree/main/Sentiment%20Analysis%20for%20Low%20Resource%20African%20Languages)
-We fine-tuned the AfriBERTa model, a pre-trained large language model, to perform sentiment analysis on Hausa text. In addition to leveraging the NaijaSenti dataset, we curated an extensive corpus of Hausa data for Language-Adaptive Fine-Tuning (LAFT) to enhance the model’s understanding of the language. This project explores the challenges of low-resource languages and highlights the importance of diverse data representation in NLP tasks.
 
 
 ## 🏆 Achievements
